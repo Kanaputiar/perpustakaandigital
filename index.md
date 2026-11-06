@@ -7,8 +7,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 3. [Laut Bercerita](ebook/Laut Bercerita.pdf) - Chudori, L. (2017)
 4. [Berani Tidak Disukai](ebook/Berani Tidak Disukai.pdf) -  Kishimi, I. &  Koga F. (2014)
 5. [Funiculi Funicula](ebook/Funiculi Funicula.pdf) - Kawaguchi, T. (2015)
-6. [Hamlet](ebook/Hamlet.pdf) - Shakespeare, W. (1602)
-7. [Middlemarch](ebook/Middlemarch.pdf) - Eliot, G. (1871)
+6. [Hamlet](./ebook/Hamlet.pdf) - Shakespeare, W. (1602)
+7. [Middlemarch](./ebook/Middlemarch.pdf) - Eliot, G. (1871)
 8. [Lost and Found](ebook/Lost and Found.pdf) - Jun, T. (2020) 
 ---
 *Powered by GitHub Pages*
