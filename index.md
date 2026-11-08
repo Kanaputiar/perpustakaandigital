@@ -10,6 +10,7 @@ Berikut ini adalah Koleksi yang dimiliki:
 6. [Middlemarch](./ebook/Middlemarch.pdf) - Eliot, G. (1871)
 7. [Lost and Found](ebook/Lost and Found.pdf) - Jun, T. (2020)
 8. [Sang Alkemis](ebook/Sang Alkemis.pdf) - Coelho, P. (1988)
-9. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Ristanti, K. (2026)
+9. [The Midnight Library](ebook/The Midnight Library.pdf) - Haig, M. (2020)
+10. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Ristanti, K. (2026)
 ---
 *Powered by GitHub Pages*
