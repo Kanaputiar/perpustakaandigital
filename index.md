@@ -11,7 +11,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 7. [Lost and Found](ebook/Lost and Found.pdf) - Jun, T. (2020)
 8. [Sang Alkemis](ebook/Sang Alkemis.pdf) - Coelho, P. (1988)
 9. [The Midnight Library](ebook/The Midnight Library.pdf) - Haig, M. (2020)
-10. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Ristanti, K. (2026)
-11. [Acc, Dok](ebook/Acc, Dok.pdf) - Giardani, R. (2026)
+10. [Acc, Dok](ebook/Acc, Dok.pdf) - Giardani, R. (2026)
+11. [Love Hypothesis](ebook/Love Hypothesis.pdf) - Hazelwood, A. (2021)
+12. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Ristanti, K. (2026)
 ---
 *Powered by GitHub Pages*
