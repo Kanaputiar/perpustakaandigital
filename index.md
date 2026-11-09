@@ -14,5 +14,8 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Acc, Dok](ebook/Acc, Dok.pdf) - Giardani, R. (2026)
 11. [Love Hypothesis](ebook/Love Hypothesis.pdf) - Hazelwood, A. (2021)
 12. [Ringkasan UGC](ebook/Ringkasan UGC.pdf) - Ristanti, K. (2026)
+
+Nama : Kana Putia Ristanti 
+NIM : 13040124130074 
 ---
 *Powered by GitHub Pages*
